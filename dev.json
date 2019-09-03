@@ -1,0 +1,10 @@
+{
+	"release" : {
+		"services" : {
+			"experiment" : {
+				"version" : "1.0.9",
+				"instance" : "ipaddr"
+			}
+		}
+	}
+}
