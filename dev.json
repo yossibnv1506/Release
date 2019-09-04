@@ -3,7 +3,7 @@
 		"services" : {
 			"experiment" : {
 				"version" : "1.0.0",
-				"instance" : "ipaddr"
+				"instance" : "3.87.229.213"
 			}
 		}
 	}
